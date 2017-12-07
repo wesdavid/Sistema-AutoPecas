@@ -1,5 +1,0 @@
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-INFORMAÇÕES IMPORTANTES!!!!!!!!
-No repositório GitHub disponibilizei o banco de dados mysql, é necessário fazer
-a importação dele para sua máquina para que o sistema funcione.
-
